@@ -16,7 +16,7 @@ versions:
       audit :
         'kernel-auditmanager-service': 'mosipdev/kernel-auditmanager-service:1.1.5.5'
       key:
-        'kernel-keymanager-service': 'mosipdev/kernel-keymanager-service:1.1.5.5'
+        'kernel-keymanager-service': 'mosipdev/kernel-keymanager-service:1.1.5.3'
       notifier:
         'kernel-notification-service': 'mosipid/kernel-notification-service:1.1.5.3'
       otp:
