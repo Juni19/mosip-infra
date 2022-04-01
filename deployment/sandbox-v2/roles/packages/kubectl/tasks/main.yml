@@ -6,6 +6,6 @@
 
 - name: Install kubectl
   yum:
-    name: kubectl
+    name: kubectl-1.19.0
     state: present
   become: yes
